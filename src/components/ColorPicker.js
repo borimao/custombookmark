@@ -17,7 +17,7 @@ export default class Link extends React.Component {
                                 color={this.props.color}
                                 onChange={this.props.ColorChange}
                                 onChangeComplete={this.props.SaveColor}
-                                width="5000px"
+                                width="100%"
                             />
                         </div>
                         <div className="radios">
